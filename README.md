@@ -25,3 +25,4 @@
 [![](https://visitcount.itsvg.in/api?id=KevalParmar75&icon=5&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![KevalParmar75's GitHub | Dependencies](https://stats.quine.sh/KevalParmar75/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=KevalParmar75)
