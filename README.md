@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://drive.google.com/file/d/1D9FW7eBb6TS_dsYwTCHqigEinXSOIT-o/view?usp=drive_link](https://drive.google.com/file/d/1D9FW7eBb6TS_dsYwTCHqigEinXSOIT-o/view?usp=sharing)">
+  <img src="https://drive.google.com/file/d/1D9FW7eBb6TS_dsYwTCHqigEinXSOIT-o/view?usp=drive_link">
 </p>
 
 # 💫 About Me:
