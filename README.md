@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://drive.google.com/file/d/1D9FW7eBb6TS_dsYwTCHqigEinXSOIT-o/view?usp=drive_link">
-</p>
-
 # 💫 About Me:
 🔭 I’m currently working on enhancing my Python AI Assistant.<br>👯 I’m looking to collaborate on Java projects to increase understanding of DSA<br>🤝 I’m looking for help with Flutter development.<br>🌱 I’m currently learning Flutter as well as python and Java.<br>💬 Ask me about my projects.<br>⚡ Fun fact i am boring🥱
 
