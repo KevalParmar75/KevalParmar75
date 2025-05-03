@@ -1,13 +1,13 @@
 # 💫 About Me:
-👨‍🎓 B-Tech IT Engineering student at Marwadi University.
-🐍 Passionate about Software Development, with a strong focus on Python.
-🧠 Exploring the fascinating world of Machine Learning through hands-on projects.
-📊 Proficient in leveraging Streamlit for effective data visualization.
-⚙️ Familiar with Flask for building robust backend applications.
-💡 Driven to apply technical skills to solve real-world challenges.
-🚀 Actively learning and staying updated on emerging technologies.
-🤝 Eager to collaborate on innovative and impactful solutions.
-🎶 Outside the realm of code, I enjoy Music.
+👨‍🎓 B-Tech IT Engineering student at Marwadi University.<br>
+🐍 Passionate about Software Development, with a strong focus on Python.<br>
+🧠 Exploring the fascinating world of Machine Learning through hands-on projects.<br>
+📊 Proficient in leveraging Streamlit for effective data visualization.<br>
+⚙️ Familiar with Flask for building robust backend applications.<br>
+💡 Driven to apply technical skills to solve real-world challenges.<br>
+🚀 Actively learning and staying updated on emerging technologies.<br>
+🤝 Eager to collaborate on innovative and impactful solutions.<br>
+🎶 Outside the realm of code, I enjoy Music.<br>
 🌱 Seeking opportunities to learn, grow, and contribute within the dynamic IT landscape.
 
 
