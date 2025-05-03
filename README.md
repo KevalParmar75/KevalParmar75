@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on enhancing my Python AI Assistant.<br>👯 I’m looking to collaborate on Java projects to increase understanding of DSA<br>🤝 I’m looking for help with Flutter development.<br>🌱 I’m currently learning Flutter as well as python and Java.<br>💬 Ask me about my projects.<br>⚡ Fun fact i am boring🥱
+👨‍🎓 B-Tech IT Engineering student at Marwadi University.
+🐍 Passionate about Software Development, with a strong focus on Python.
+🧠 Exploring the fascinating world of Machine Learning through hands-on projects.
+📊 Proficient in leveraging Streamlit for effective data visualization.
+⚙️ Familiar with Flask for building robust backend applications.
+💡 Driven to apply technical skills to solve real-world challenges.
+🚀 Actively learning and staying updated on emerging technologies.
+🤝 Eager to collaborate on innovative and impactful solutions.
+🎶 Outside the realm of code, I enjoy Music.
+🌱 Seeking opportunities to learn, grow, and contribute within the dynamic IT landscape.
 
 
 ## 🌐 Socials:
