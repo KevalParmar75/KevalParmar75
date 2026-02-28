@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://image.api.play.ht/image_0.png" width="100%" alt="Keval Parmar Banner" />
+  <img src="https://github.com/KevalParmar75/KevalParmar75/blob/main/Banner.png" width="100%" alt="Keval Parmar Banner" />
 </div>
 
 # 🛸 Gen-AI Developer | LLM Architect  
