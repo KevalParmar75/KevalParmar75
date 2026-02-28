@@ -13,6 +13,8 @@
 * 🎨 **UI/UX:** Obsessed with **Liquid Glass** aesthetics and high-contrast dark themes.
 * 🐕 **Off-Duty:** When not coding, I'm usually with my **Husky** or exploring new music.
 
+**---**
+
 # 💻 Tech Stack:
 ### 🧠 AI & Machine Learning
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -23,10 +25,19 @@
 ### ⚙️ Tools & Ecosystem
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+**---**
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KevalParmar75&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KevalParmar75&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevalParmar75&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KevalParmar75&bg_color=0d1117&text_color=C9D1D9&title_color=f97316&icon_color=f97316&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=KevalParmar75&background=0d1117&text=C9D1D9&dates=C9D1D9&ring=f97316&fire=f97316&currStreakNum=C9D1D9&currStreakLabel=f97316&sideNums=C9D1D9&sideLabels=C9D1D9&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevalParmar75&bg_color=0d1117&text_color=C9D1D9&title_color=f97316&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+**---**
 
 <td colspan="2" align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevalParmar75&custom_title=Contribution%20Graph&bg_color=0d1117&color=84cc16&line=84cc16&point=C9D1D9&area_color=84cc16&title_color=C9D1D9&area=true&hide_border=true&radius=16"/>
@@ -38,8 +49,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KevalParmar75&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=KevalParmar75&icon=0&color=0)](https://visitcount.itsvg.in)
+**---**
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=KevalParmar75&label=Profile%20views&color=f97316&style=flat" alt="KevalParmar75" /> 
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/keval75) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/k.e.v.a.l_?igsh=cHh1ZzhjdDg2Y2E4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/keval-parmar234/)
