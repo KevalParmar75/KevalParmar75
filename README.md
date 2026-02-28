@@ -13,7 +13,7 @@
 * 🎨 **UI/UX:** Obsessed with **Liquid Glass** aesthetics and high-contrast dark themes.
 * 🐕 **Off-Duty:** When not coding, I'm usually with my **Husky** or exploring new music.
 
-**---**
+---
 
 # 💻 Tech Stack:
 ### 🧠 AI & Machine Learning
@@ -25,7 +25,7 @@
 ### ⚙️ Tools & Ecosystem
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-**---**
+---
 
 # 📊 GitHub Stats:
 
@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevalParmar75&bg_color=0d1117&text_color=C9D1D9&title_color=f97316&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-**---**
+---
 
 <td colspan="2" align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevalParmar75&custom_title=Contribution%20Graph&bg_color=0d1117&color=84cc16&line=84cc16&point=C9D1D9&area_color=84cc16&title_color=C9D1D9&area=true&hide_border=true&radius=16"/>
@@ -49,7 +49,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KevalParmar75&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-**---**
+---
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=KevalParmar75&label=Profile%20views&color=f97316&style=flat" alt="KevalParmar75" /> 
 </p>
