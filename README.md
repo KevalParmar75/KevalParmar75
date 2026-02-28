@@ -28,8 +28,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=KevalParmar75&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevalParmar75&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KevalParmar75&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+<td colspan="2" align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevalParmar75&custom_title=Contribution%20Graph&bg_color=0d1117&color=84cc16&line=84cc16&point=C9D1D9&area_color=84cc16&title_color=C9D1D9&area=true&hide_border=true&radius=16"/>
+</td>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
