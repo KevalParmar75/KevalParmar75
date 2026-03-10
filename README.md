@@ -29,13 +29,20 @@
 
 # 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevalParmar75&bg_color=0d1117&text_color=C9D1D9&title_color=f97316&icon_color=f97316&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KevalParmar75&background=0d1117&text=C9D1D9&dates=C9D1D9&ring=f97316&fire=f97316&currStreakNum=C9D1D9&currStreakLabel=f97316&sideNums=C9D1D9&sideLabels=C9D1D9&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevalParmar75&bg_color=0d1117&text_color=C9D1D9&title_color=f97316&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+<p align="center">
+<a href="https://github.com/KevalParmar75">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevalParmar75&show_icons=true&theme=github_dark&hide_border=true&title_color=f97316&icon_color=f97316&text_color=C9D1D9&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+</a>
+
+<a href="https://github.com/KevalParmar75">
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=KevalParmar75&theme=github-dark&hide_border=true&ring=f97316&fire=f97316&currStreakLabel=f97316&background=0d1117"/>
+</a>
+</p>
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevalParmar75&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f97316&text_color=C9D1D9"/>
+</p>
+
 
 ---
 
