@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/KevalParmar75/KevalParmar75/blob/main/Banner.png" width="100%" alt="Keval Parmar Banner" />
-</div>
-
 # 🛸 Gen-AI Developer | LLM Architect  
 ### 🌌 Crafting Intelligent Systems & Glassmorphism UIs
 
