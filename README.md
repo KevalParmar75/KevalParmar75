@@ -7,7 +7,6 @@
 * 🎙️ **Current Projects:** Developing **Optimus** (Multilingual Voice Assistant) and **Portfolio**.
 * 🐍 **Python Power-User:** Focused on LLM integration, RAG pipelines, and automation.
 * 🎨 **UI/UX:** Obsessed with **Liquid Glass** aesthetics and high-contrast dark themes.
-* 🐕 **Off-Duty:** When not coding, I'm usually with my **Husky** or exploring new music.
 
 ---
 
